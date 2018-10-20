@@ -2,6 +2,7 @@
 # Contributors
 
 - [Linherest](https://github.com/linherest)
+- [Kim Hermosillo](https://github.com/kimhermosillo)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [MC_Leut](https://github.com/MCLeut)
